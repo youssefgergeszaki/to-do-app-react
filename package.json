@@ -2,7 +2,7 @@
   "homepage": "https://youssefgergeszaki.github.io/to-do-app-react",
   "name": "to-do-app-react",
   "version": "0.1.0",
-  "private": true,
+  "private": false,
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^6.5.2",
     "@fortawesome/free-solid-svg-icons": "^6.5.2",
